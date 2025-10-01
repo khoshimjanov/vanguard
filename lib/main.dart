@@ -96,7 +96,7 @@ class MyApp extends ConsumerWidget {
 
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Riverpod + SharedPreferences',
+      title: 'Vanguard',
       theme: lightTheme,
       darkTheme: darkTheme,
       themeMode: themeMode,
